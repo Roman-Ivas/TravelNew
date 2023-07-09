@@ -57,6 +57,7 @@ value='" . $row[0] . "' form='hotelform'/></td>";
     <div class="mb-3">
         <select name="cityid" id="hotelcities" class="form-select"></select>
     </div>
+    
     <div class="mb-3">
         <label for="hotelname" class="form-label">Hotel name</label>
         <input type="text" class="form-control" id="hotelname" placeholder="Add new hotel..." name="hotelname">
